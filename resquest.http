@@ -6,7 +6,7 @@ POST http://localhost:3000/messages
 content-Type: application/json
 
 {
-    "content": "ther"
+    "content": "gzv"
 }
 
 ### get a specific message
