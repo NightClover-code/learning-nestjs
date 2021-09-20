@@ -6,8 +6,8 @@ POST http://localhost:3000/messages
 content-Type: application/json
 
 {
-    "content": "yeah right!!"
+    "content": "after adding DI"
 }
 
 ### get a specific message
-GET http://localhost:3000/messages/61af5099-b53a-468a-a4c2-17e5ecd3c31f
+GET http://localhost:3000/messages/213d9756-f1ad-4b4d-8a8c-54e19850f2dd
