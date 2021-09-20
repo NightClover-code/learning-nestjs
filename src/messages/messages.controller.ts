@@ -22,6 +22,6 @@ export class MessagesController {
 
   @Get('/:id')
   getMessage(@Param('id') id: string) {
-    this.messagesService.findOne(id);
+    return this.messagesService.findOne(id);
   }
 }

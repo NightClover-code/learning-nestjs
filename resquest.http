@@ -6,8 +6,8 @@ POST http://localhost:3000/messages
 content-Type: application/json
 
 {
-    "content": "gzv"
+    "content": "yeah right!!"
 }
 
 ### get a specific message
-GET http://localhost:3000/messages/543
+GET http://localhost:3000/messages/61af5099-b53a-468a-a4c2-17e5ecd3c31f
